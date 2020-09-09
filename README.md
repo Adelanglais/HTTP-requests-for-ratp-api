@@ -6,7 +6,7 @@ Format :  XML
 
 ## Installation
 ```bash
-python3 ratp.py
+pip install -r requirements.txt
 ```
 
 # Usage
