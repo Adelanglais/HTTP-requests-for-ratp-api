@@ -2,7 +2,7 @@
 
 Code permettant d'obtenir des informations à partir d'une API.   
 API utilisée :  ratp   
-Format :  JSON   
+Format :  XML   
 
 ## Installation
 
