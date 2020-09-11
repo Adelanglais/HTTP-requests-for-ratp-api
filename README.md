@@ -18,4 +18,4 @@ python3 ratp.py # returns next stop time of line 7
 # Quit virtualenv 
 ```bash
 deactivate
-``
+```
